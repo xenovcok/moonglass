@@ -1,0 +1,17 @@
+.nav {
+	border-bottom: 1px solid #114245;
+	-webkit-box-shadow: 0px 0px 8px 1px #000000;
+       -moz-box-shadow: 0px 0px 8px 1px #000000;
+            box-shadow: 0px 0px 8px 1px #000000;
+}
+
+.footer {
+	height: 120px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
+
+section#sec1.section {
+	background-color: rgba(21, 158, 199, 0.44);
+}

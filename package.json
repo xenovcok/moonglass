@@ -1,0 +1,14 @@
+{
+  "name": "moonglass",
+  "version": "1.0.0",
+  "description": "chat app layout",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xenov",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.3.2"
+  }
+}
